@@ -12,6 +12,7 @@ body{
     align-items: center;
     min-height: 100vh;
     background-image: url('ujjwal.jpg');
+    background-size: 100% 105%;
 }
 .container{
     background-color: #fff;
